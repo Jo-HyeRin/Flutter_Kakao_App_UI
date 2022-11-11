@@ -1,16 +1,22 @@
 # flutter_kakao
 
-A new Flutter project.
+Flutter로 채팅 어플 UI 제작
 
-## Getting Started
+## 화면 설계
 
-This project is a starting point for a Flutter application.
+<총 5개의 화면 생성>
+1 친구 목록 보기, 
+2 프로필 보기, 
+3 채팅방 목록 보기, 
+4 채팅방 보기, 
+5 더보기
 
-A few resources to get you started if this is your first Flutter project:
+## 더미데이터
+유저데이터, 채팅데이터, 더보기에 쓰일 데이터 필요
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
